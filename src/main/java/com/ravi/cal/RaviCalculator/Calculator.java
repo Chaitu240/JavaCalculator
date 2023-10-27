@@ -23,6 +23,10 @@ public class Calculator {
 		return first+second;
 	}
 	
+	public long mulFucn(long first, long second){
+		
+		return first*second;
+	}
 	public long subFucn(long first, long second){
 		
 		return second-first;
